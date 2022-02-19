@@ -1,0 +1,17 @@
+body {
+  background-color: #2e2a2a;
+  color: white;
+  font-family: "Quintessential", cursive;
+  font-weight: bold;
+}
+
+.notecard {
+  background-color: black;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+  background-color: black;
+  border: 1px solid black;
+}
